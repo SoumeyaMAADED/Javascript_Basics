@@ -1,1 +1,1 @@
-# Exercices JavaScript de l'université informatique de Sofia en Bulgarie.
+# Exercices d'Algorithmie en JavaScript de Software University
