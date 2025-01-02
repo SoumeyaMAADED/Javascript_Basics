@@ -13,7 +13,7 @@ convertisseur(["7"])
 
 /* input est un paramètre (entre parenthèses), une donnée qui sera entrée lors de l'appel de la fonction tout en bas, par exemple ici: 
 convertisseur()
-Je déclare ensuite ma constante const (car elle ne change pas) qui vaut 2.54 cm pour un pouce ensuite je déclare une variable let qui changera 
+Je déclare ensuite ma constante const (car elle ne change pas) qui vaut 2.54 cm pour un pouce, ensuite je déclare une variable let qui changera 
 de résultat à chaque donnée différent entrée.
 Résultat de 5 pouces = 12.7 cm
 Résultat de 7 pouces = 17.78 cm
